@@ -2,6 +2,8 @@
 
 *Slides and resources for the [!!con 2020](http://bangbangcon.com/) talk.*
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
+
 ## Description
 
 Quebec built the world's first 735 kV power line in 1965, and was the highest-voltage, longest-distance network for decades before the rest of the world caught up. Even today it's still seen as "bomb-proof" by the rest of the world, and is often used as a model. But it wasn't always that way...
@@ -48,3 +50,10 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 	- it's a distributed system: time synchronization, leader election, back-pressure communication
   - it's a critical system: graceful degradation, load-shedding, split brain avoidance, and staggered restart procedures
 	- it's an abstracted system: humans, politics, circular dependencies ("we cant start the database without the auth server running first" == "we cant start this natural gas power plant without grid power to spin up its compressors")
+
+
+## Further Reading
+
+- http://bangbangcon.com/
+- https://en.wikipedia.org/wiki/Power-line_communication
+- https://en.wikipedia.org/wiki/James_Bay_Project
