@@ -1,5 +1,6 @@
 # Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!
 
+*Slides and links for the [!!con 2020](http://bangbangcon.com/) talk.*
 
 ## Description
 
