@@ -31,12 +31,12 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
     - frequency syncronization, phase balancing
     - Hz = spinning kitectic energy in the system
     - distance measuring by bouncing a pulse down the wire and timing each impedance mismatch's reflected pulse
-- 3min: HVDC, edison wins after all
+- 2min: HVDC, edison wins after all
     - good for long distances grid connections with no step-ups / step-downs (Quebec sells lots of power to NY northeast USA)
     - more efficient wiring, no skin effect
     - rescue lifeline in blackout situations
     - easier to control digitally
-- 1min: theres a whole world of network chatter on power lines
+- 2min: theres a whole world of network chatter on power lines
     - channels are coupled on and off with capacitors, like radio
     - signals get attenuated by transformers / capacitative loss / radio transmission losses (aka pollution)
     - AM radio band for home entertainment radio stations
