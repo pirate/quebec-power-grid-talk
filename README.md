@@ -57,3 +57,5 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 - http://bangbangcon.com/
 - https://en.wikipedia.org/wiki/Power-line_communication
 - https://en.wikipedia.org/wiki/James_Bay_Project
+- https://en.wikipedia.org/wiki/Smart_grid
+- https://en.wikipedia.org/wiki/High-voltage_direct_current
