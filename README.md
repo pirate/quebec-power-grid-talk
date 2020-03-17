@@ -12,7 +12,7 @@ When a massive ice storm took down 36,000 power pylons overnight in 1998, Quebec
 
 Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montreal, and his favorite bike paths all run under power lines. He's a Django developer by day, and rogue internet archivist / power grid investigator by night. He likes learning about how big systems fail, and thinks thyristor halls look neat.
 
-![]()https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pole_2_Thyristor_Valve.jpg/600px-Pole_2_Thyristor_Valve.jpg
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pole_2_Thyristor_Valve.jpg/600px-Pole_2_Thyristor_Valve.jpg)
 
 ## Outline
 
