@@ -1,6 +1,6 @@
 # Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!
 
-*Slides and resources for the [!!con 2020](http://bangbangcon.com/) talk.*
+*Slides and resources for the upcoming [!!con 2020](http://bangbangcon.com/) talk.*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
 
