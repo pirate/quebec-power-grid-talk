@@ -51,6 +51,7 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
     - it's a critical system: graceful degradation, load-shedding, split brain avoidance, and staggered restart procedures
     - it's an abstracted system: humans, politics, circular dependencies ("we cant start the database without the auth server running first" == "we cant start this natural gas power plant without grid power to spin up its compressors")
 
+## Quotes & Images
 
 > The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
 
