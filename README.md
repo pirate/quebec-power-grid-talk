@@ -35,7 +35,7 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
     - good for long distances grid connections with no step-ups / step-downs (Quebec sells lots of power to NY northeast USA)
     - more efficient wiring, no skin effect
     - rescue lifeline in blackout situations
-    - easier to control digitally
+    - easier to control digitally (https://en.wikipedia.org/wiki/Static_VAR_compensator)
 - 2min: theres a whole world of network chatter on power lines
     - channels are coupled on and off with capacitors, like radio
     - signals get attenuated by transformers / capacitative loss / radio transmission losses (aka pollution)
