@@ -19,7 +19,7 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 ## Outline
 
 - 1min: intro, photos of james bay project
-    - hydro quebec origin story
+    - hydro quebec origin story, now it has 20,000+ employees
     - mega dams near the arctic circle + big wires
     - modern distinct grid regions of North America
     - (Quebec & Texas = independent)
@@ -50,6 +50,7 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
     - it's a distributed system: time synchronization, leader election, back-pressure communication
     - it's a critical system: graceful degradation, load-shedding, split brain avoidance, and staggered restart procedures
     - it's an abstracted system: humans, politics, circular dependencies ("we cant start the database without the auth server running first" == "we cant start this natural gas power plant without grid power to spin up its compressors")
+    
 
 ## Quotes & Images
 
@@ -96,8 +97,13 @@ Changing the transmission system to create loops to deliver power over more than
 - http://bangbangcon.com/speakers.html#nick-sweeting
 - https://en.wikipedia.org/wiki/Power-line_communication
 - https://en.wikipedia.org/wiki/James_Bay_Project
+- https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec
 - https://en.wikipedia.org/wiki/Smart_grid
 - https://en.wikipedia.org/wiki/High-voltage_direct_current
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec%27s_electricity_transmission_system#Electricity_pylons
 - http://news.hydroquebec.com/en/press-releases/1313/twenty-years-ago-quebec-was-battered-by-an-ice-storm/
 - https://www.compusult.com/html/IWAIS_Proceedings/IWAIS_2005/Papers/IW09.PDF
+- http://www.hydroquebec.com/data/transenergie/pdf/2019-12-31-liste-centrales-privees-raccordees-reseau-hydro-quebec.pdf
+- https://www.iso-ne.com/about/key-stats/maps-and-diagrams/#system-diagram
+- https://www.iso-ne.com/static-assets/documents/2016/07/New-England-Geographic-Diagram-Transmission-Planning-Through-2026.pdf  
+- https://electricity.ca/wp-content/uploads/2017/05/CEA_16-086_The_North_American_E_WEB.pdf
