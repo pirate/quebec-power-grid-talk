@@ -85,6 +85,10 @@ Changing the transmission system to create loops to deliver power over more than
 
 > Altogether the reservoirs created by the James Bay Project cover an area of 13,341 square kilometers - the largest bodies of water ever created by humankind. One of the reservoirs, Caniapiscau, is the largest freshwater lake in Quebec.
 
+> The Levis De-Icer is a High voltage direct current (HVDC) system, aimed at de-icing multiple AC power lines in Quebec, Canada. It is the only HVDC system not used for power transmission.
+> In the winter of 1998, Québec's power lines were toppled by icing, sometimes up to 75 mm. To prevent such a damage, a de-icing system was developed.[1]
+> The Levis De-Icer can use a maximum power of 250 MW; its operation voltage is ±17.4 kV. It can be used on multiple 735 kV AC power lines. An ordinary 735 kV line with a bundle of four 1354 MCM conductors per phase, requires a de-icing current of 7200 A per phase.[4] At −10 °C and wind velocity at 10 km/h, it would take 30 minutes of current injection on a phase to melt 12 mm of radial build-up of ice.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Nercmap.JPG" width="500px">
 
 <img src="http://news.hydroquebec.com/media/filer_public/2018/01/05/98-006-3-0109_tn.jpg" width="500px">
@@ -103,6 +107,7 @@ Changing the transmission system to create loops to deliver power over more than
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec
 - https://en.wikipedia.org/wiki/Smart_grid
 - https://en.wikipedia.org/wiki/High-voltage_direct_current
+- https://en.wikipedia.org/wiki/Levis_De-Icer
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec%27s_electricity_transmission_system#Electricity_pylons
 - http://news.hydroquebec.com/en/press-releases/1313/twenty-years-ago-quebec-was-battered-by-an-ice-storm/
 - https://www.compusult.com/html/IWAIS_Proceedings/IWAIS_2005/Papers/IW09.PDF
