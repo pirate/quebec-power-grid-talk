@@ -52,14 +52,11 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
     - it's an abstracted system: humans, politics, circular dependencies ("we cant start the database without the auth server running first" == "we cant start this natural gas power plant without grid power to spin up its compressors")
 
 
-```quote
-The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
-```
-https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec%27s_electricity_transmission_system#Electricity_pylons
+> The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
 
-```quote
-In addition to the six 735 kV power lines that stem from the James Bay Project, a seventh power line was constructed as an 1,100 kilometres (680 mi) northward extension of an existing high-voltage direct current (HVDC) line connecting Quebec and New England. This power line expansion was completed in 1990. As a result, the direct current power line is unique because there are multiple static converter and inverter stations along the 1,480 kilometres (920 mi) long power line.[8] It is also the first multiterminal HVDC line in the world. The ±450 kV power line can transmit about 2,000 MW of hydroelectric power to Montreal and the Northeastern United States.
-```
+  
+
+> In addition to the six 735 kV power lines that stem from the James Bay Project, a seventh power line was constructed as an 1,100 kilometres (680 mi) northward extension of an existing high-voltage direct current (HVDC) line connecting Quebec and New England. This power line expansion was completed in 1990. As a result, the direct current power line is unique because there are multiple static converter and inverter stations along the 1,480 kilometres (920 mi) long power line.[8] It is also the first multiterminal HVDC line in the world. The ±450 kV power line can transmit about 2,000 MW of hydroelectric power to Montreal and the Northeastern United States.
 
 ```quote
 The 1998 ice storm in numbers:
@@ -80,15 +77,16 @@ Changing the transmission system to create loops to deliver power over more than
 - Integration of the new 735-kV Bout-de-l’Île substation to the 735-kV greater Montréal loop
 ```
 
-```quote
-In the North American ice storm of 1998, five days of freezing rain collapsed 600 kilometres (370 mi) of high voltage power lines and over 3,000 kilometres (1,900 mi) of medium and low voltage distribution lines in southern Quebec. Up to 1.4 million customers were without power for up to five weeks.
-```
+
+> In the North American ice storm of 1998, five days of freezing rain collapsed 600 kilometres (370 mi) of high voltage power lines and over 3,000 kilometres (1,900 mi) of medium and low voltage distribution lines in southern Quebec. Up to 1.4 million customers were without power for up to five weeks.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Nercmap.JPG" width="500px">
 
 <img src="http://news.hydroquebec.com/media/filer_public/2018/01/05/98-006-3-0109_tn.jpg" width="500px">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/660px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/660px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png" width="500px">
+
+<img src="https://i.imgur.com/8A9WCFR.jpg" width="500px">
 
 <img src="https://i.ytimg.com/vi/ZPLRwEMASbA/maxresdefault.jpg" width="200px">
 
