@@ -1,6 +1,6 @@
 # Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!
 
-*Slides and resources for the upcoming [!!con 2020](http://bangbangcon.com/speakers.html#nick-sweeting) talk.*
+*Slides and resources for the the [!!con 2020](http://bangbangcon.com/speakers.html#nick-sweeting) talk (#virtualbangbangcon).*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
 
@@ -15,6 +15,13 @@ When a massive ice storm took down 36,000 power pylons overnight in 1998, Quebec
 Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montreal, and his favorite bike paths all run under power lines. He's a Django developer by day, and rogue internet archivist / power grid investigator by night. He likes learning about how big systems fail, and thinks thyristor halls look neat.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pole_2_Thyristor_Valve.jpg/600px-Pole_2_Thyristor_Valve.jpg)
+
+## Slides
+
+- [Video](http://bangbangcon.com/recordings.html)
+- [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
+- [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
+- [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
 
 ## Outline
 
@@ -119,3 +126,6 @@ Changing the transmission system to create loops to deliver power over more than
 - https://www.iso-ne.com/static-assets/documents/2016/07/New-England-Geographic-Diagram-Transmission-Planning-Through-2026.pdf  
 - https://electricity.ca/wp-content/uploads/2017/05/CEA_16-086_The_North_American_E_WEB.pdf
 - http://www.jamesbayroad.com/hydro/index.html
+
+
+<img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
