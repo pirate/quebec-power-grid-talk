@@ -93,11 +93,14 @@ Changing the transmission system to create loops to deliver power over more than
 
 <img src="http://news.hydroquebec.com/media/filer_public/2018/01/05/98-006-3-0109_tn.jpg" width="500px">
 
+<img src="http://www.howitworksdaily.com/wp-content/uploads/2012/11/Ice.jpg" width="500px">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/660px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png" width="500px">
 
 <img src="https://i.imgur.com/8A9WCFR.jpg" width="500px">
 
 <img src="https://i.ytimg.com/vi/ZPLRwEMASbA/maxresdefault.jpg" width="200px">
+
 
 ## Further Reading
 
