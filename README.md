@@ -125,6 +125,10 @@ Changing the transmission system to create loops to deliver power over more than
 - https://www.iso-ne.com/about/key-stats/maps-and-diagrams/#system-diagram
 - https://www.iso-ne.com/static-assets/documents/2016/07/New-England-Geographic-Diagram-Transmission-Planning-Through-2026.pdf  
 - https://electricity.ca/wp-content/uploads/2017/05/CEA_16-086_The_North_American_E_WEB.pdf
+- https://books.google.ca/books?id=soQGXnzg24QC
+- http://gotocon.com/dl/goto-aar-2013/slides/SebastianEgner_ProgrammingLanguagesAndThePowerGrid.pdf
+- https://www.amazon.ca/Grid-Fraying-Between-Americans-Energy/dp/1608196100
+- https://www.theglobeandmail.com/arts/theatre-and-performance/investigative-playwriting-shines-light-on-myths-and-realities-ofhydro-quebec/article38013768/
 - http://www.jamesbayroad.com/hydro/index.html
 
 
