@@ -18,7 +18,7 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 
 ## Slides
 
-- [Video](http://bangbangcon.com/recordings.html)
+- [Video](https://youtu.be/QEZ0N0rrbL0?t=24039)
 - [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
 - [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
 - [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
