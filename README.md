@@ -2,9 +2,8 @@
 <h1>Quebec's 735kv power lines can survive the apocalypse,<br/>but can they run TCP?!</h1>
 <b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
 and lessons we can learn from the grid as software engineers.</b>
-</div>
 
-Speaker Info: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
+Speaker: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
 > Co-Founder @ Monadical, a startup based in Medellín, NYC, and Montréal, with remote employees around the world.  
 [Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
 
@@ -18,10 +17,12 @@ Speaker Info: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https:/
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
 <img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
 </a>
-</div>
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">Video (YouTube)</a>, <a href="https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf">Slides (PDF)</a>
 
-`#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems` `#failure-analysis` `#safety-engineering` `#infrastructure`
+`#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems`  
+`#failure-analysis` `#safety-engineering` `#infrastructure`
+
+</div>
 
 ## Events & Video
 
