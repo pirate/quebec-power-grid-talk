@@ -65,14 +65,21 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 
 > Altogether the reservoirs created by the James Bay Project cover an area of 13,341 square kilometers - the largest bodies of water ever created by humankind. One of the reservoirs, Caniapiscau, is the largest freshwater lake in Quebec.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
+
 > In addition to the six 735 kV power lines that stem from the James Bay Project, a seventh power line was constructed as an 1,100 kilometres (680 mi) northward extension of an existing high-voltage direct current (HVDC) line connecting Quebec and New England. This power line expansion was completed in 1990. As a result, the direct current power line is unique because there are multiple static converter and inverter stations along the 1,480 kilometres (920 mi) long power line.[8] It is also the first multiterminal HVDC line in the world. The ±450 kV power line can transmit about 2,000 MW of hydroelectric power to Montreal and the Northeastern United States.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/660px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png" width="500px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Nercmap.JPG" width="500px">
 
 > The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
 
+<img src="https://www.howitworksdaily.com/wp-content/uploads/2012/11/Ice.jpg" width="500px">
 
 > In the North American ice storm of 1998, five days of freezing rain collapsed 600 kilometres (370 mi) of high voltage power lines and over 3,000 kilometres (1,900 mi) of medium and low voltage distribution lines in southern Quebec. Up to 1.4 million customers were without power for up to five weeks.
+
+<img src="https://news.hydroquebec.com/media/filer_public/2018/01/05/98-006-3-0109_tn.jpg" width="500px">
 
 ```quote
 The 1998 ice storm in numbers:
@@ -94,20 +101,13 @@ Changing the transmission system to create loops to deliver power over more than
 - Integration of the new 735-kV Bout-de-l’Île substation to the 735-kV greater Montréal loop
 ```
 
+<img src="https://i.imgur.com/8A9WCFR.jpg" width="500px">
+
 > The Levis De-Icer is a High voltage direct current (HVDC) system, aimed at de-icing multiple AC power lines in Quebec, Canada. It is the only HVDC system not used for power transmission.
 > In the winter of 1998, Québec's power lines were toppled by icing, sometimes up to 75 mm. To prevent such a damage, a de-icing system was developed.[1]
 > The Levis De-Icer can use a maximum power of 250 MW; its operation voltage is ±17.4 kV. It can be used on multiple 735 kV AC power lines. An ordinary 735 kV line with a bundle of four 1354 MCM conductors per phase, requires a de-icing current of 7200 A per phase.[4] At −10 °C and wind velocity at 10 km/h, it would take 30 minutes of current injection on a phase to melt 12 mm of radial build-up of ice.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Nercmap.JPG" width="500px">
-
-<img src="http://news.hydroquebec.com/media/filer_public/2018/01/05/98-006-3-0109_tn.jpg" width="500px">
-
-<img src="http://www.howitworksdaily.com/wp-content/uploads/2012/11/Ice.jpg" width="500px">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/660px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png" width="500px">
-
-<img src="https://i.imgur.com/8A9WCFR.jpg" width="500px">
-
+<img src="https://i.imgur.com/XEMmcnU.png" width="500px">
 <img src="https://i.ytimg.com/vi/ZPLRwEMASbA/maxresdefault.jpg" width="200px">
 
 
@@ -121,17 +121,17 @@ Changing the transmission system to create loops to deliver power over more than
 - https://en.wikipedia.org/wiki/High-voltage_direct_current
 - https://en.wikipedia.org/wiki/Levis_De-Icer
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec%27s_electricity_transmission_system#Electricity_pylons
-- http://news.hydroquebec.com/en/press-releases/1313/twenty-years-ago-quebec-was-battered-by-an-ice-storm/
+- https://news.hydroquebec.com/en/press-releases/1313/twenty-years-ago-quebec-was-battered-by-an-ice-storm/
 - https://www.compusult.com/html/IWAIS_Proceedings/IWAIS_2005/Papers/IW09.PDF
 - http://www.hydroquebec.com/data/transenergie/pdf/2019-12-31-liste-centrales-privees-raccordees-reseau-hydro-quebec.pdf
 - https://www.iso-ne.com/about/key-stats/maps-and-diagrams/#system-diagram
 - https://www.iso-ne.com/static-assets/documents/2016/07/New-England-Geographic-Diagram-Transmission-Planning-Through-2026.pdf  
 - https://electricity.ca/wp-content/uploads/2017/05/CEA_16-086_The_North_American_E_WEB.pdf
 - https://books.google.ca/books?id=soQGXnzg24QC
-- http://gotocon.com/dl/goto-aar-2013/slides/SebastianEgner_ProgrammingLanguagesAndThePowerGrid.pdf
+- https://gotocon.com/dl/goto-aar-2013/slides/SebastianEgner_ProgrammingLanguagesAndThePowerGrid.pdf
 - https://www.amazon.ca/Grid-Fraying-Between-Americans-Energy/dp/1608196100
 - https://www.theglobeandmail.com/arts/theatre-and-performance/investigative-playwriting-shines-light-on-myths-and-realities-ofhydro-quebec/article38013768/
-- http://www.jamesbayroad.com/hydro/index.html
+- https://www.jamesbayroad.com/hydro/index.html
 
 
 <img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
