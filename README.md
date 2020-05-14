@@ -7,9 +7,6 @@ and lessons we can learn from the grid as software engineers.</b>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-lightblue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github"/></a>
 
-> Speaker: [Nick Sweeting](https://nicksweeting.com) ([Twitter](https://twitter.com/theSquashSH)/[Github](https://github.com/pirate)/[LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)) Co-Founder @ Monadical  
-> [Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
-
 ---
 
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
@@ -196,9 +193,11 @@ The 1998 ice storm in numbers:
 <div align="center">
 <img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
 <br/>
-<i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/><br/>
-You're welcome to use content or portions of the talk with permission,<br/>as long as you give credit to both this talk and the relevant sources I cite.
+<i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/>
+[Monadical](https://monadical.com) is our software development consultancy doing full-stack development and project management for a variety of industries.
 </i>
+<br/><br/>
+<small>You're welcome to use content from or portions of the talk,<br/>as long as you give credit to both this talk and the relevant primary sources I cite.</small>
 <br/>
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png"/></a>
 </div>
