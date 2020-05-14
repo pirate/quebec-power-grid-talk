@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Quebec's 735kv power lines can survive the apocalypse,<br/>but can they run TCP?!</h1>
-<b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
+<b>The challenges involved in designing and maintaining the most efficient power grid on earth,<br/>
 and some of the lessons software engineers can learn from grid operators.</b>
 <br/><br/>
 
@@ -21,12 +21,10 @@ and some of the lessons software engineers can learn from grid operators.</b>
 </small>
 </div>
 
-## Events & Video
+## Talks
 
-- [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ *Virtual Conference* on 2020/05/09  
-  Video: https://youtu.be/QEZ0N0rrbL0?t=24039
-
-- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: Center Camp Cafe open mic lightning talks on 2019/09/01  
+- [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ [YouTube](https://youtu.be/QEZ0N0rrbL0?t=24039) *Virtual Conference* on 2020/05/09
+- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: Center Camp Cafe lightning talks on 2019/09/01  
 
 ## Slides
 
@@ -193,7 +191,7 @@ The 1998 ice storm in numbers:
 <img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
 <br/>
 <i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/>
-If you liked this, check out our full-stack software development consultancy Monadical.com!<br/>
+If you liked this, check out our full-stack software development consultancy <a href="https://monadical.com">Monadical.com</a>!<br/>
 </i>
 <br/><br/>
 <small>You're welcome to use content from or portions of the talk,<br/>as long as you give credit to both this talk and the relevant primary sources I cite.</small>
