@@ -2,7 +2,16 @@
 
 *Slides and resources for the the [!!con 2020](http://bangbangcon.com/speakers.html#nick-sweeting) talk (#virtualbangbangcon).*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
+<a href="https://youtu.be/QEZ0N0rrbL0?t=24060">
+<img src="https://i.imgur.com/djJFxnu.png">
+</a>
+
+## Slides
+
+- [Video](https://youtu.be/QEZ0N0rrbL0?t=24039)
+- [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
+- [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
+- [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
 
 ## Description
 
@@ -15,13 +24,6 @@ When a massive ice storm took down 36,000 power pylons overnight in 1998, Quebec
 Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montreal, and his favorite bike paths all run under power lines. He's a Django developer by day, and rogue internet archivist / power grid investigator by night. He likes learning about how big systems fail, and thinks thyristor halls look neat.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pole_2_Thyristor_Valve.jpg/600px-Pole_2_Thyristor_Valve.jpg)
-
-## Slides
-
-- [Video](https://youtu.be/QEZ0N0rrbL0?t=24039)
-- [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
-- [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
-- [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
 
 ## Outline
 
@@ -61,11 +63,16 @@ Nick Sweeting is the co-founder of [Monadical](https://monadical.com) in Montrea
 
 ## Quotes & Images
 
-> The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
-
-  
+> Altogether the reservoirs created by the James Bay Project cover an area of 13,341 square kilometers - the largest bodies of water ever created by humankind. One of the reservoirs, Caniapiscau, is the largest freshwater lake in Quebec.
 
 > In addition to the six 735 kV power lines that stem from the James Bay Project, a seventh power line was constructed as an 1,100 kilometres (680 mi) northward extension of an existing high-voltage direct current (HVDC) line connecting Quebec and New England. This power line expansion was completed in 1990. As a result, the direct current power line is unique because there are multiple static converter and inverter stations along the 1,480 kilometres (920 mi) long power line.[8] It is also the first multiterminal HVDC line in the world. The ±450 kV power line can transmit about 2,000 MW of hydroelectric power to Montreal and the Northeastern United States.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg/600px-D%C3%A9versoir%2C_Centrale_hydro-%C3%A9lectrique_Robert-Bourassa.jpg)
+
+> The pylons and conductors are designed to handle 45 millimetres (1.8 inches) of ice accumulation without failure,[19] since Hydro-Québec raised the standards in response to ice storms in Ottawa in December 1986 and Montreal in February 1961, which left 30 to 40 millimetres (1.2 to 1.6 inches) of ice.[50][51][52] This has led to the belief that Hydro-Québec TransÉnergie's electrical pylons are "indestructible".[53] Despite being more than three times higher than the Canadian standard of only 13 millimetres (0.51 inches) of ice tolerance,[54] an ice storm in the late-1990s deposited up to 70 millimetres (2.8 inches) of ice.[19][51]
+
+
+> In the North American ice storm of 1998, five days of freezing rain collapsed 600 kilometres (370 mi) of high voltage power lines and over 3,000 kilometres (1,900 mi) of medium and low voltage distribution lines in southern Quebec. Up to 1.4 million customers were without power for up to five weeks.
 
 ```quote
 The 1998 ice storm in numbers:
@@ -78,19 +85,14 @@ The 1998 ice storm in numbers:
 - 17,000 poles replaced
 - 4,500 transformers replaced
 - 88,000 insulators replaced
-
+```
+```quote
 Changing the transmission system to create loops to deliver power over more than one path:
 - Creation of the 735-kV Montérégie loop and the 315-kV downtown Montréal loop
 - rearranging the system between Québec and Trois-Rivières to create the Québec-Mauricie loop
 - Reinforcing the supply to downtown Québec
 - Integration of the new 735-kV Bout-de-l’Île substation to the 735-kV greater Montréal loop
 ```
-
-
-> In the North American ice storm of 1998, five days of freezing rain collapsed 600 kilometres (370 mi) of high voltage power lines and over 3,000 kilometres (1,900 mi) of medium and low voltage distribution lines in southern Quebec. Up to 1.4 million customers were without power for up to five weeks.
-
-
-> Altogether the reservoirs created by the James Bay Project cover an area of 13,341 square kilometers - the largest bodies of water ever created by humankind. One of the reservoirs, Caniapiscau, is the largest freshwater lake in Quebec.
 
 > The Levis De-Icer is a High voltage direct current (HVDC) system, aimed at de-icing multiple AC power lines in Quebec, Canada. It is the only HVDC system not used for power transmission.
 > In the winter of 1998, Québec's power lines were toppled by icing, sometimes up to 75 mm. To prevent such a damage, a de-icing system was developed.[1]
