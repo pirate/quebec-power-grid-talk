@@ -3,13 +3,13 @@
 <b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
 and lessons we can learn from the grid as software engineers.</b>
 
-Speaker: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
-> Co-Founder @ Monadical, a startup based in Medellín, NYC, and Montréal, with remote employees around the world.  
-[Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
-
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?style=flat"/></a>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-lightblue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github"/></a>
+
+Speaker: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
+> Co-Founder @ Monadical, a startup based in Medellín, NYC, and Montréal, with remote employees around the world.  
+[Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
 
 ---
 
