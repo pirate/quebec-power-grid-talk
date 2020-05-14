@@ -1,7 +1,8 @@
-# Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!
-
+<div align="center">
+<h1>Quebec's 735kv power lines can survive the apocalypse,<br/>but can they run TCP?!</h1>
 <b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
 and lessons we can learn from the grid as software engineers.</b>
+</div>
 
 Speaker Info: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
 > Co-Founder @ Monadical, a startup based in Medellín, NYC, and Montréal, with remote employees around the world.  
@@ -13,7 +14,7 @@ Speaker Info: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https:/
 
 ---
 
-<div style="text-align:center">
+<div align="center">
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
 <img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
 </a>
@@ -192,10 +193,11 @@ Changing the transmission system to create loops to deliver power over more than
 
 ---
 
-<div style="text-align:center">
+<div align="center">
 <img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
 <br/>
-<i>Contact me on Twiter [@theSquashSH](https://twitter.com/theSquashSH) for corrections or suggestions!  You're welcome to use content or portions of the talk with permission, as long as you give credit to both this talk and the relevant sources I cite.</i>
-<br/>
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png" /></a>
+<i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/><br/>
+You're welcome to use content or portions of the talk with permission,<br/>as long as you give credit to both this talk and the relevant sources I cite.
+</i>
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png"/></a>
 </div>
