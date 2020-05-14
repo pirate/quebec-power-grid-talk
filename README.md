@@ -13,12 +13,12 @@ and some of the lessons software engineers can learn from grid operators.</b>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-blue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github&color=purple"/></a>
 <br/>
-<sup>
+<small>
 
 `#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems`  
 `#failure-analysis` `#safety-engineering` `#infrastructure`
 
-</sup>
+</small>
 </div>
 
 ## Events & Video
@@ -26,8 +26,7 @@ and some of the lessons software engineers can learn from grid operators.</b>
 - [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ *Virtual Conference* on 2020/05/09  
   Video: https://youtu.be/QEZ0N0rrbL0?t=24039
 
-- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City on 2019/09/01  
-  Center Camp Cafe open mic lightning talks (not recorded)
+- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: Center Camp Cafe open mic lightning talks on 2019/09/01  
 
 ## Slides
 
