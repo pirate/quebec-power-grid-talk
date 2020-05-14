@@ -170,22 +170,22 @@ The 1998 ice storm in numbers:
 
 ### Books
 
-- [White Gold: Hydroelectric Power in Canada](https://books.google.ca/books?id=YixStndEudYC) by Karl Froschauer
-- [Canadian Power Imports: Update on Electricity Imports in the Northeast ...](https://books.google.ca/books?id=soQGXnzg24QC) by USA Gov. General Accounting Office
-- [The Power Grid: Smart, Secure, Green and Reliable](https://books.google.ca/books?id=d48xDQAAQBAJ) edited by Brian D’Andrade
-- [The Grid: The Fraying Wires Between Americans and Our Energy Future](https://www.amazon.ca/Grid-Fraying-Between-Americans-Energy/dp/1608196100) by Gretchen Bakke
-- [Energy and Civilization: A History](https://www.amazon.ca/Energy-Civilization-History-MIT-Press-ebook/dp/B072FH69YH/) by Vaclav Smil
-- [Charging Ahead: Hydro-Québec and the Future of Electricity](https://www.amazon.ca/Charging-Ahead-Hydro-Qu%C3%A9bec-Future-Electricity/dp/1771862017/) by Julie Barlow and Jean-Benoït Nadeau
-- [Hydro-Quebec: After 100 Years of Electricity](https://www.amazon.ca/Andre-Clarence-Daniel-Larouche-Bolduc/dp/2891113888/) by Daniel Larouche Bolduc, Andre, Clarence Hogue
-- [Power from the North: Territory, Identity, and the Culture of Hydroelectricity in Quebec](https://www.amazon.ca/Power-North-Territory-Identity-Hydroelectricity/dp/0774824174/) by Caroline Desbiens
-- [Power Struggles: Hydro Development and First Nations in Manitoba and Quebec](https://www.amazon.ca/Power-Struggles-Development-Nations-Manitoba/dp/0887557058/) by Thibault Martin and Steven M. Hoffman
+- [White Gold: Hydroelectric Power in Canada](https://books.google.ca/books?id=YixStndEudYC) by Karl Froschauer (2011)
+- [Canadian Power Imports: Update on Electricity Imports in the Northeast ...](https://books.google.ca/books?id=soQGXnzg24QC) by USA Gov. General Accounting Office (1989)
+- [The Power Grid: Smart, Secure, Green and Reliable](https://books.google.ca/books?id=d48xDQAAQBAJ) edited by Brian D’Andrade (2017)
+- [The Grid: The Fraying Wires Between Americans and Our Energy Future](https://www.amazon.ca/Grid-Fraying-Between-Americans-Energy/dp/1608196100) by Gretchen Bakke (2016)
+- [Energy and Civilization: A History](https://www.amazon.ca/Energy-Civilization-History-MIT-Press-ebook/dp/B072FH69YH/) by Vaclav Smil (2017)
+- [Charging Ahead: Hydro-Québec and the Future of Electricity](https://www.amazon.ca/Charging-Ahead-Hydro-Qu%C3%A9bec-Future-Electricity/dp/1771862017/) by Julie Barlow and Jean-Benoït Nadeau (2019)
+- [Hydro-Quebec: After 100 Years of Electricity](https://www.amazon.ca/Andre-Clarence-Daniel-Larouche-Bolduc/dp/2891113888/) by Daniel Larouche Bolduc, Andre, Clarence Hogue (1989)
+- [Power from the North: Territory, Identity, and the Culture of Hydroelectricity in Quebec](https://www.amazon.ca/Power-North-Territory-Identity-Hydroelectricity/dp/0774824174/) by Caroline Desbiens (2014)
+- [Power Struggles: Hydro Development and First Nations in Manitoba and Quebec](https://www.amazon.ca/Power-Struggles-Development-Nations-Manitoba/dp/0887557058/) by Thibault Martin and Steven M. Hoffman (2008)
 - [Hydro-Québec and the Great Whale project: Hydroelectric development in northern Québec](https://www.amazon.ca/Hydro-Qu%C3%A9bec-Great-Whale-project-Hydroelectric/dp/1879775158/) by Susan Williams (1994)
 - [Power from the North](https://www.amazon.ca/Power-north-Robert-Bourassa/dp/0136883672/) by Robert Bourassa (1985)
 - [Social and Environmental Impacts of the James Bay Hydroelectric Project](https://www.amazon.ca/Social-Environmental-Impacts-Hydroelectric-Project/dp/0773518363/) by James F. Hornig (1999)
 - [The James Bay Project](https://www.amazon.ca/James-Bay-Project-Jill-Johnston-ebook/dp/B003FSTKIM/) by Jill M. Johnston (2009)
 - [ELECTRIC RIVERS](https://www.amazon.ca/ELECTRIC-RIVERS-Sean-McCutcheon/dp/1895431190/) by Sean McCutcheon (1998)
-- [More reference books by Hydro Quebec...](https://www.amazon.ca/s?i=stripbooks&rh=p_27%3AHydro-Qu%C3%A9bec&s=relevancerank&text=Hydro-Qu%C3%A9bec&ref=dp_byline_sr_book_1)
 - [J’aime Hydro](https://www.theglobeandmail.com/arts/theatre-and-performance/investigative-playwriting-shines-light-on-myths-and-realities-ofhydro-quebec/article38013768/) documentary theatre piece by Christine Beaulieu (2018)
+- [More reference books by Hydro Quebec...](https://www.amazon.ca/s?i=stripbooks&rh=p_27%3AHydro-Qu%C3%A9bec&s=relevancerank&text=Hydro-Qu%C3%A9bec&ref=dp_byline_sr_book_1)
 
 ---
 
@@ -193,7 +193,7 @@ The 1998 ice storm in numbers:
 <img src="https://i.imgur.com/FiXKQ2R.png" width="200px">
 <br/>
 <i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/>
-[Monadical](https://monadical.com) is our software development consultancy doing full-stack development and project management for a variety of industries.
+If you liked this, check out our full-stack software development consultancy Monadical.com!<br/>
 </i>
 <br/><br/>
 <small>You're welcome to use content from or portions of the talk,<br/>as long as you give credit to both this talk and the relevant primary sources I cite.</small>
