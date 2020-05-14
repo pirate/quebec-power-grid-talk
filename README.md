@@ -7,9 +7,9 @@ and lessons we can learn from the grid as software engineers.</b>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-lightblue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github"/></a>
 
-Speaker: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
+> Speaker: [Nick Sweeting](https://nicksweeting.com) ([Twitter](https://twitter.com/theSquashSH)/[Github](https://github.com/pirate)/[LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/))
 > Co-Founder @ Monadical, a startup based in Medellín, NYC, and Montréal, with remote employees around the world.  
-[Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
+> [Monadical](https://monadical.com) is a software development shop doing full-stack development and project management.
 
 ---
 
@@ -121,13 +121,13 @@ The 1998 ice storm in numbers:
 - 4,500 transformers replaced
 - 88,000 insulators replaced
 ```
-```quote
-Changing the transmission system to create loops to deliver power over more than one path:
-- Creation of the 735-kV Montérégie loop and the 315-kV downtown Montréal loop
-- rearranging the system between Québec and Trois-Rivières to create the Québec-Mauricie loop
-- Reinforcing the supply to downtown Québec
-- Integration of the new 735-kV Bout-de-l’Île substation to the 735-kV greater Montréal loop
-```
+
+> Changing the transmission system to create loops to deliver power over more than one path:
+> - Creation of the 735-kV Montérégie loop and the 315-kV downtown Montréal loop
+> - rearranging the system between Québec and Trois-Rivières to create the Québec-Mauricie loop
+> - Reinforcing the supply to downtown Québec
+> - Integration of the new 735-kV Bout-de-l’Île substation to the 735-kV greater Montréal loop
+
 
 <img src="https://i.imgur.com/8A9WCFR.jpg" width="500px">
 
@@ -136,7 +136,6 @@ Changing the transmission system to create loops to deliver power over more than
 > The Levis De-Icer can use a maximum power of 250 MW; its operation voltage is ±17.4 kV. It can be used on multiple 735 kV AC power lines. An ordinary 735 kV line with a bundle of four 1354 MCM conductors per phase, requires a de-icing current of 7200 A per phase.[4] At −10 °C and wind velocity at 10 km/h, it would take 30 minutes of current injection on a phase to melt 12 mm of radial build-up of ice.
 
 <img src="https://i.imgur.com/XEMmcnU.png" width="500px">
-<img src="https://i.ytimg.com/vi/ZPLRwEMASbA/maxresdefault.jpg" width="200px">
 
 ---
 
@@ -201,5 +200,6 @@ Changing the transmission system to create loops to deliver power over more than
 <i>Contact me on Twiter <a href="https://twitter.com/theSquashSH">@theSquashSH</a> for corrections or suggestions!<br/><br/>
 You're welcome to use content or portions of the talk with permission,<br/>as long as you give credit to both this talk and the relevant sources I cite.
 </i>
+<br/>
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png"/></a>
 </div>
