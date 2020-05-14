@@ -1,17 +1,47 @@
 # Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!
 
-*Slides and resources for the the [!!con 2020](http://bangbangcon.com/speakers.html#nick-sweeting) talk (#virtualbangbangcon).*
+**The challenges involved in designing and maintaining one of the most resilient power grids on earth, and lessons from it we can apply to software engineering.**
 
-<a href="https://youtu.be/QEZ0N0rrbL0?t=24060">
-<img src="https://i.imgur.com/djJFxnu.png">
+Speaker Info: [Nick Sweeting](https://nicksweeting.com) | [@theSquashSH](https://twitter.com/theSquashSH) on Twitter | [@pirate](https://github.com/pirate) on Github | [LinkedIn](https://www.linkedin.com/in/nick-sweeting-430999b3/)  
+> Co-Founder @ Monadical, a startup based in Medellin, Colombia and Montreal, Canada with remote employees around the world ([we're hiring!](https://monadical.com/apply)).  
+[Monadical](https://monadical.com) is a software development consultancy doing full-stack development and project management for a variety of industries.
+
+<a href="https://youtu.be/QEZ0N0rrbL0?t=24039"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?style=flat"/></a>
+<a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-lightblue.svg?style=flat"/></a>
+<a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github"/></a>
+
+---
+
+<div style="text-align:center">
+<a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
+<img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
 </a>
+</div>
+<a href="https://youtu.be/QEZ0N0rrbL0?t=24039">Video (YouTube)</a>, <a href="https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf">Slides (PDF)</a>
+
+`#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems` `#failure-analysis` `#safety-engineering` `#infrastructure`
+
+## Events & Video
+
+- [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ *Virtual Conference* on 2020/05/09  
+  Video: https://youtu.be/QEZ0N0rrbL0?t=24039
+
+- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City on 2019/09/01  
+  Center Camp Cafe open mic lightning talks (not recorded)
+
+If you'd like to have me give this talk at one of your events, please reach out via Twitter or email!
 
 ## Slides
 
-- [Video](https://youtu.be/QEZ0N0rrbL0?t=24039)
-- [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
-- [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
-- [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
+You can view the slides in several formats, though some may be more up-to-date than others:
+
+ - [PDF](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf)
+ - [HTML](https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk/assets/player/KeynoteDHTMLPlayer.html#0)
+ - [Keynote](https://github.com/pirate/quebec-power-grid-talk/raw/master/Quebec%20Power%20Grid%20Talk.key)
+ - [SlideShare](https://www.slideshare.net/NickSweeting1/quebecs-735kv-power-lines-can-survive-the-apocalypse-but-can-they-run-tcp)
+ - [SpeakerDeck](https://speakerdeck.com/pirate/quebecs-735kv-power-lines-can-survive-the-apocalypse-but-can-they-run-tcp)
+
+Contact me on Twiter [@theSquashSH](https://twitter.com/theSquashSH) for corrections or suggestions!  You're welcome to use content or portions of the talk with permission, as long as you give credit to both this talk and the relevant sources I cite.
 
 ## Description
 
@@ -110,10 +140,12 @@ Changing the transmission system to create loops to deliver power over more than
 <img src="https://i.imgur.com/XEMmcnU.png" width="500px">
 <img src="https://i.ytimg.com/vi/ZPLRwEMASbA/maxresdefault.jpg" width="200px">
 
+---
 
 ## Further Reading
 
-- http://bangbangcon.com/speakers.html#nick-sweeting
+### Wikis
+
 - https://en.wikipedia.org/wiki/Power-line_communication
 - https://en.wikipedia.org/wiki/James_Bay_Project
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec
@@ -121,6 +153,9 @@ Changing the transmission system to create loops to deliver power over more than
 - https://en.wikipedia.org/wiki/High-voltage_direct_current
 - https://en.wikipedia.org/wiki/Levis_De-Icer
 - https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec%27s_electricity_transmission_system#Electricity_pylons
+
+### Media
+
 - https://news.hydroquebec.com/en/press-releases/1313/twenty-years-ago-quebec-was-battered-by-an-ice-storm/
 - https://www.compusult.com/html/IWAIS_Proceedings/IWAIS_2005/Papers/IW09.PDF
 - http://www.hydroquebec.com/data/transenergie/pdf/2019-12-31-liste-centrales-privees-raccordees-reseau-hydro-quebec.pdf
