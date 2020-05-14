@@ -2,13 +2,7 @@
 <h1>Quebec's 735kv power lines can survive the apocalypse,<br/>but can they run TCP?!</h1>
 <b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
 and lessons we can learn from the grid as software engineers.</b>
-<br/><br/>
-<small>
-
-`#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems`  
-`#failure-analysis` `#safety-engineering` `#infrastructure`
-
-</small>
+<br/>
 
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
 <img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
@@ -16,9 +10,15 @@ and lessons we can learn from the grid as software engineers.</b>
 <br/>
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?style=flat"/></a>
 <a href="https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf"><img src="https://img.shields.io/badge/Slides-PDF-green.svg?style=flat"/></a>
-<a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-lightblue.svg?style=flat"/></a>
-<a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github"/></a>
+<a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-blue.svg?style=flat"/></a>
+<a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github&color=purple"/></a>
+<br/>
+<small>
 
+`#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems`  
+`#failure-analysis` `#safety-engineering` `#infrastructure`
+
+</small>
 </div>
 
 ## Events & Video
