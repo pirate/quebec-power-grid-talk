@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Quebec's 735kv power lines can survive the apocalypse,<br/>but can they run TCP?!</h1>
 <b>The challenges involved in designing and maintaining one of the most resilient power grids on earth,<br/>
-and lessons we can learn from the grid as software engineers.</b>
-<br/>
+and some of the lessons software engineers can learn from grid operators.</b>
+<br/><br/>
 
 <a href="https://youtu.be/QEZ0N0rrbL0?t=24039">
 <img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
@@ -13,12 +13,12 @@ and lessons we can learn from the grid as software engineers.</b>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-blue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github&color=purple"/></a>
 <br/>
-<small>
+<sup>
 
 `#bangbangcon2020` `#virtualbangbangcon` `#electrical-grid` `#distributed-systems`  
 `#failure-analysis` `#safety-engineering` `#infrastructure`
 
-</small>
+</sup>
 </div>
 
 ## Events & Video
