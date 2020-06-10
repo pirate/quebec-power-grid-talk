@@ -4,11 +4,11 @@
 and some of the lessons software engineers can learn from grid operators.</b>
 <br/><br/>
 
-<a href="https://youtu.be/QEZ0N0rrbL0?t=24060">
+<a href="https://www.youtube.com/watch?v=x8T7UE7A0jk">
 <img src="https://i.imgur.com/djJFxnu.png" alt="First slide of talk" width="500px">
 </a>
 <br/>
-<a href="https://youtu.be/QEZ0N0rrbL0?t=24060"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?style=flat"/></a>
+<a href="https://www.youtube.com/watch?v=x8T7UE7A0jk"><img src="https://img.shields.io/badge/Watch-YouTube-red.svg?style=flat"/></a>
 <a href="https://pirate.github.io/quebec-power-grid-talk/Quebec%20Power%20Grid%20Talk.pdf"><img src="https://img.shields.io/badge/Slides-PDF-green.svg?style=flat"/></a>
 <a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-blue.svg?style=flat"/></a>
 <a href="https://github.com/pirate/quebec-power-grid-talk"><img src="https://img.shields.io/github/stars/pirate/quebec-power-grid-talk.svg?style=flat&label=Star+on+Github&color=purple"/></a>
@@ -23,7 +23,7 @@ and some of the lessons software engineers can learn from grid operators.</b>
 
 ## Talks
 
-- [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ [YouTube](https://youtu.be/QEZ0N0rrbL0?t=24060) *Virtual Conference* on 2020/05/09
+- [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ [YouTube](https://www.youtube.com/watch?v=x8T7UE7A0jk) *Virtual Conference* on 2020/05/09
 - [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: Center Camp Cafe lightning talks on 2019/09/01  
 
 ## Slides
