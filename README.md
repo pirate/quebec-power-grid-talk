@@ -24,7 +24,7 @@ and some of the lessons software engineers can learn from grid operators.</b>
 ## Talks
 
 - [**!!con 2020**](http://bangbangcon.com/speakers.html#nick-sweeting) @ [YouTube](https://www.youtube.com/watch?v=x8T7UE7A0jk) *Virtual Conference* on 2020/05/09
-- [Burning Man 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: Center Camp Cafe lightning talks on 2019/09/01  
+- [Center Camp lightning talks 2019](https://burningman.org/event/art-performance/performance-opportunities/center-camp-cafe/2/) @ Black Rock City: on 2019/09/01  
 
 ## Slides
 
