@@ -144,6 +144,7 @@ The 1998 ice storm in numbers:
 - https://electricity.ca/wp-content/uploads/2017/05/CEA_16-086_The_North_American_E_WEB.pdf
 - https://gotocon.com/dl/goto-aar-2013/slides/SebastianEgner_ProgrammingLanguagesAndThePowerGrid.pdf
 - https://www.jamesbayroad.com/hydro/index.html
+- https://openinframap.org/#9.14/45.5468/-73.7943 ⭐️ (great map of all the power lines and substations)
 
 ### Wikis
 
